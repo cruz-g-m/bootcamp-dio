@@ -10,6 +10,8 @@ Repositório para controle de conteúdo e aulas do Bootcamp da DIO.
 ## Links para repositórios externos
 - [Aula 04-Java Básico](https://github.com/cruz-g-m/dio-java-basico)
 - [Aula 05-Lógica Condicional e Controle de Fluxo](https://github.com/cruz-g-m/dio-logica-condicional-controle-fluxo)
+- [Aula 06-Loops e Arrays](https://github.com/cruz-g-m/dio-loops-e-arrays)
+- [Aula 07-Métodos](https://github.com/cruz-g-m/dio-metodos)
 
 ## Links úteis:
 - [Site Oficial da DIO](https://www.dio.me/)
